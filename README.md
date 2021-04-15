@@ -1,4 +1,4 @@
-# Unagi - Chatbot 🤖 👻
+# Unagi - Chatbot 🤖
 
 ![image](https://github.com/Ganeshuthiravasagam/Chatbot/blob/main/unagi.jpeg)
 
