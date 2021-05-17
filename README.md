@@ -17,7 +17,7 @@ This is an interactive chatbot that answers our question, says the current time 
 - Flask == 1.1.1
 - ChatterBot == 0.8.7
 - Pycharm
-## ⭐Skills required 
+## ⭐Project demo
 
 Project Video - [Click Here](https://www.linkedin.com/feed/update/urn:li:activity:6788394008444997633/)
 
